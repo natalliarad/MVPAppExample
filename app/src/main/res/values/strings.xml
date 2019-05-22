@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather Outdoor</string>
+    <string name="load_weather">Load Weather</string>
+</resources>
